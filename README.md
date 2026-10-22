@@ -5,9 +5,9 @@
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](YOUR_LINKEDIN_URL)
+[![LinkedIn](https://www.linkedin.com/in/pathuri-lakshmi-pradeepthi-4b8589395/)](YOUR_LINKEDIN_URL)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github)](https://github.com/PathuriPradeepthi)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-7C3AED?style=for-the-badge&logo=vercel)](YOUR_PORTFOLIO_URL)
+[![Portfolio](https://portfolio-zeta-nine-jyxowgb8wr.vercel.app/)](YOUR_PORTFOLIO_URL)
 [![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail)](mailto:YOUR_EMAIL)
 
 ### 💻 SOFTWARE DEVELOPER • AI TRAINEE • TECH ENTHUSIAST
