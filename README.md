@@ -93,11 +93,14 @@ A full-stack academic tracking platform designed for KL University's DYOD curric
 
 ### 💡 KLEATS
 
-A project I'm developing and looking forward to showcasing.
+A project I'm developed and looking forward to showcasing.
 
-- Add the project's purpose and key features here.
-- Add the actual technologies used in the project.
-
+- Enables students and staff to pre-order meals.
+- Supports scheduled pickups to reduce waiting times.
+- Offers order tracking and notifications.
+- Supports ordering from multiple campus canteens.
+-  **Role:** Backend Developer
+-  **Tech Stack:** React.js, Node.js, Express.js, MongoDB.
 
 ---
 
