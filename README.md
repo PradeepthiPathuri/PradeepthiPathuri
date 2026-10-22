@@ -98,23 +98,6 @@ A project I'm developing and looking forward to showcasing.
 - Add the project's purpose and key features here.
 - Add the actual technologies used in the project.
 
-### ☕ Roast & Brew
-
-A responsive coffee shop website with a modern interface.
-
-- **Tech:** HTML, CSS, JavaScript.
-
-### 🌦️ Weather App
-
-A weather application that retrieves weather information using an API.
-
-- **Tech:** HTML, CSS, JavaScript, Weather API.
-
-### ⏱️ Stopwatch Web App
-
-An interactive stopwatch with start, pause, reset, and dark mode functionality.
-
-- **Tech:** HTML, CSS, JavaScript.
 
 ---
 
