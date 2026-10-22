@@ -1,13 +1,13 @@
 
 <div align="center">
 
-<img src="header-banner.png" width="100%" alt="Pradeepthi's GitHub Banner"/>
+<img src="./header-banner.png" width="100%" alt="Pradeepthi's GitHub Banner"/>
 
 <br/>
 
-[![LinkedIn](https://www.linkedin.com/in/pathuri-lakshmi-pradeepthi-4b8589395/)](YOUR_LINKEDIN_URL)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github)](https://github.com/PathuriPradeepthi)
-[![Portfolio](https://portfolio-zeta-nine-jyxowgb8wr.vercel.app/)](YOUR_PORTFOLIO_URL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/pathuri-lakshmi-pradeepthi-4b8589395/)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github)](https://github.com/PradeepthiPathuri)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-7C3AED?style=for-the-badge&logo=vercel)](https://portfolio-zeta-nine-jyxowgb8wr.vercel.app/)
 [![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail)](mailto:YOUR_EMAIL)
 
 ### 💻 SOFTWARE DEVELOPER • AI TRAINEE • TECH ENTHUSIAST
@@ -24,7 +24,7 @@ Hi! I'm **Pradeepthi**, a B.Tech student passionate about software development, 
 
 - 🚀 Currently an **AI Trainee at Calibo AI Academy**
 - 🤖 Exploring Generative AI, Python, SQL, EDA, and Docker
-- 💡 Developing projects that solve real-world problems
+- 💡 Building projects to solve real-world problems
 - ☁️ AWS Certified Developer – Associate
 - 🌱 Always learning, building, and improving my technical skills
 
@@ -36,8 +36,8 @@ Hi! I'm **Pradeepthi**, a B.Tech student passionate about software development, 
 |---|---|
 | B.Tech Student | AWS Certified Developer – Associate |
 | Software Development | Calibo AI Academy Trainee |
-| Java & Full-Stack Development | Hands-on AI and Data Analysis Learning |
-| Cloud & AI Enthusiast | Building Academic and Web Applications |
+| Java & Full-Stack Development | AI and Data Analysis Learning |
+| Cloud & AI Enthusiast | Academic and Web Applications |
 
 ---
 
@@ -69,15 +69,15 @@ Hi! I'm **Pradeepthi**, a B.Tech student passionate about software development, 
 
 ### 🟢 AI Trainee — Calibo AI Academy
 
-Currently developing practical skills in AI, data analysis, and software engineering through structured training and hands-on assignments.
+Developing practical skills in artificial intelligence, data analysis, SQL, and software engineering through structured training and hands-on assignments.
 
 **Learning focus:**
 - 🤖 Generative AI and Large Language Models
-- 🐍 Python, NumPy, Pandas, and data analysis
+- 🐍 Python, NumPy, and Pandas
 - 📊 Exploratory Data Analysis and visualization
-- 🗄️ SQL and data-driven problem solving
+- 🗄️ SQL and data-driven problem-solving
 - 🔧 Git, GitHub, and Docker
-- 💡 Applying technical concepts to practical use cases
+- 💡 Applying technical concepts to real-world use cases
 
 ---
 
@@ -93,11 +93,28 @@ A full-stack academic tracking platform designed for KL University's DYOD curric
 
 ### 💡 KLEATS
 
-A project I'm working on and looking to showcase here.
+A project I'm developing and looking forward to showcasing.
 
-- Project overview and key features will be added here.
-- Technologies: Add the actual project tech stack.
+- Add the project's purpose and key features here.
+- Add the actual technologies used in the project.
 
+### ☕ Roast & Brew
+
+A responsive coffee shop website with a modern interface.
+
+- **Tech:** HTML, CSS, JavaScript.
+
+### 🌦️ Weather App
+
+A weather application that retrieves weather information using an API.
+
+- **Tech:** HTML, CSS, JavaScript, Weather API.
+
+### ⏱️ Stopwatch Web App
+
+An interactive stopwatch with start, pause, reset, and dark mode functionality.
+
+- **Tech:** HTML, CSS, JavaScript.
 
 ---
 
@@ -112,11 +129,11 @@ A project I'm working on and looking to showcase here.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=PathuriPradeepthi&show_icons=true&theme=tokyonight&hide_border=true" height="165" alt="GitHub statistics"/>
+<img src="https://github-readme-stats.vercel.app/api?username=PradeepthiPathuri&show_icons=true&theme=tokyonight&hide_border=true" height="165" alt="GitHub statistics"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PathuriPradeepthi&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Most used languages"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PradeepthiPathuri&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Most used languages"/>
 
-<img src="https://streak-stats.demolab.com?user=PathuriPradeepthi&theme=tokyonight&hide_border=true" height="165" alt="GitHub contribution streak"/>
+<img src="https://streak-stats.demolab.com?user=PradeepthiPathuri&theme=tokyonight&hide_border=true" height="165" alt="GitHub contribution streak"/>
 
 </div>
 
